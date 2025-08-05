@@ -20,7 +20,7 @@ Experienced in full-stack development, automated testing, CI/CD pipelines, and e
 
 <div align="center">
 
-**📍 São Paulo, SP, Brazil** • **🌍 Remote Work** • **🗣️ English C1 Advanced**
+**📍 São José dos Campos, SP, Brazil** • **🌍 Remote Work** • **🗣️ English C1 Advanced**
 
 </div>
 
