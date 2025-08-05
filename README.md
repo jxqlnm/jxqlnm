@@ -1,7 +1,7 @@
 <h1 align="center">Jacqueline Mariane Bezerra</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9E4F96&center=true&vCenter=true&width=800&lines=Frontend+Developer+Jr+III+%40+StormGeo;Bergen%2C+Norway+%E2%80%A2+Remote+from+S%C3%A3o+Paulo;React+%7C+Next.js+%7C+TypeScript+%7C+GraphQL;Weather+Intelligence+%26+Data+Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9E4F96&center=true&vCenter=true&width=800&lines=Frontend+Developer+Jr+III+%40+StormGeo;Bergen%2C+Norway+%E2%80%A2+Remote+from+Brazil;React+%7C+Next.js+%7C+TypeScript+%7C+GraphQL;Weather+Intelligence+%26+Data+Visualization" alt="Typing SVG" />
 </div>
 
 ## 👋🏻 Professional Overview
