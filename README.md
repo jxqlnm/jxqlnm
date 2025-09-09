@@ -60,6 +60,9 @@ Backend systems in Java (Spring Boot) with fiscal integrations and XML processin
 
 ## 🎓 Education
 
+**Pós-graduação Stricto Sensu - Mestrado Profissional • PPG-PIT Mestrado profissional em Inovação Tecnológica**
+UNIFESP - Universidade Federal de São Paulo • Ago 2025 - Jul 2027
+
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 FATEC São José dos Campos • Jul 2025
 
